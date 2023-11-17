@@ -2,7 +2,7 @@ import { useState } from "react";
 import { useParams, Link, useNavigate, useLocation } from "react-router-dom";
 import { motion } from "framer-motion";
 import logo from "../../assets/logo.svg";
-import data from "../data.json";
+import data from "../../data.json";
 import cross from "../../assets/shared/icon-view-image.svg";
 import back from "../../assets/shared/icon-back-button.svg";
 import next from "../../assets/shared/icon-next-button.svg";

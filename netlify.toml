@@ -5,4 +5,4 @@
 
   [build]
 
-  included_files = ["./src/data.json"]
+  included_files = ["/data.json"]
