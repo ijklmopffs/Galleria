@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import logo from "../../assets/logo.svg";
-import data from "../../data.json";
+import data from "../../public/data.json";
 import { Link, useNavigate } from "react-router-dom";
 
 export default function Gallery() {
