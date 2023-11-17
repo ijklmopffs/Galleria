@@ -2,3 +2,7 @@
   from = "/*"
   to = "/"
   status = 200
+
+  [build]
+
+  included_files = ["./src/data.json"]
